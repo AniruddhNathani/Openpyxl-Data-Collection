@@ -1,0 +1,13 @@
+ModuleId,Change Number,Project/Problem Details,Impacted Application Instance,Impacted Process,Impacted Region,Process Type Tested,Process Type Tested_RTI,Process Type Tested_NFTI
+"<Worksheet ""MIM0000049482"">",CHG0001518070,T2S Denmark/Dublin Onboarding,GIW,"Batch, Continuous ",EMEA,"Batch, Continuous ","Batch, Continuous ",
+"<Worksheet ""MIM0000064010"">",CHG0002042203,CD 8.1 – Kazakh Payments,GIW,"Batch, Continuous ",CEEMEA,"Batch, Continuous ","Batch, Continuous ","Batch, Continuous "
+"<Worksheet ""MIM0000061414 "">",CHG0002042167,Statements Linux releases for ASIA,GIW,"Batch, Continuous ",ASIA,"Batch, Continuous ","Batch, Continuous ","Batch, Continuous "
+"<Worksheet ""MIM0000063981"">",CHG0002042203,SEPA Spain CBR,GIW,Batch,"Western Europe, CEEMEA ",Batch,Batch,
+"<Worksheet ""MIM0000056495"">",CHG0001829483,EDI Migration to Talend,GIW,Batch,,Batch,Batch,Batch
+"<Worksheet ""MIM0000053393"">",CHG0001711794,PRB0000107053 - Mexico DE load migration to Abinitio ,GIW,Batch,LATAM,Batch,Batch,Batch
+"<Worksheet ""MIM0000055571"">",CHG0001798477,Staging Table Stats Collection,GIW,"Batch, ",EUROPE,,,Batch
+"<Worksheet ""MIM0000062442 "">",CHG0002042193,Linux Migration for CANADA,GIW,Batch,NAM,Batch,Batch,
+"<Worksheet ""MIM0000063434"">",CHG0002042198,Linux Migration for Global and EAS,GIW,Batch,"Western Europe, CEEMEA ",Batch,Batch,Completed
+"<Worksheet ""MIM0000062498 "">",CHG0002042193,Linux migration - LATAM,GIW,"Batch, Continuous",LATAM,"Batch, Continuous","Batch, Continuous","Batch, Continuous"
+"<Worksheet ""MIM0000069317"">",CHG0002521162,CEEMEA Standardization Phase 4 A,GIW,"Batch, Continuous",CEEMEA,"Batch, Continuous","Batch, Continuous","Batch, Continuous"
+"<Worksheet ""MIM0000069695"">",CHG0002521162,CEEMEA Standardization Phase 4 B,GIW,"Batch, Continuous",CEEMEA,"Batch, Continuous","Batch, Continuous","Batch, Continuous"
