@@ -55,6 +55,8 @@ for sheets in wb2:
     wb1.save(filename = dest_filename)
 
 
+data_xls = pd.read_excel(r'C:\Users\nathani_n\Desktop\ExcelData\FinalDisplay.xlsx', index_col=None)
+data_xls.to_csv(r'C:\Users\nathani_n\Desktop\Hello.csv', index=False, encoding='utf-8')
 
 
 
